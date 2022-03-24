@@ -1,5 +1,5 @@
-# Module_21_Challenge
-FinTech Bootcamp Module 21: Solidity Tokenomics - ERC-20, OpenZeppelin, & Crowdsales
+# 21: Solidity Tokenomics - ERC-20, OpenZeppelin, & Crowdsales
+FinTech Bootcamp Module 21 Challenge
 
 ---
 

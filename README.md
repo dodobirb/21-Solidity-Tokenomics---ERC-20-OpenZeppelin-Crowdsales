@@ -1,5 +1,5 @@
 # 21: Solidity Tokenomics - ERC-20, OpenZeppelin, & Crowdsales
-FinTech Bootcamp Module 21 Challenge
+FinTech Boot Camp Module 21 Challenge
 
 ---
 
